@@ -16,7 +16,7 @@ Record a new visit.
     "referrer": "https://google.com",
     "country": "India",
     "region": "Madhya Pradesh",
-    "city": "Burhanpur",
+    "city": "indore",
     "latitude": 21.3,
     "longitude": 76.2
 }
